@@ -7,7 +7,7 @@ This is my first repository. It serves as a introduction to HTML, Javascript and
 Clone the repository
 
 ```
-git clone https://github.com/Sandi-Makhathini/hello.git
+git clone https://github.com/Sandi-Makhathini/hello-world.git
 ```
 
 ## Usage
